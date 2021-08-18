@@ -21,6 +21,7 @@ Hier ist ein Photo von einem Elefanten.
 ## Inhalt 3
 
 Statt eines Textes fügen sie ein Bild ein.
+
 [![picture of an elephant](https://static.educalingo.com/img/en/800/african-elephant.jpg) ](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
 
 ## Verifikation + Reflektion
